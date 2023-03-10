@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Pythoneer Developer</h3>
 <img align = "right" alt="Python logo" width="400" src="https://i.gifer.com/origin/25/25dcee6c68fdb7ac42019def1083b2ef_w200.gif"
 
 <p align="left"> <a href="https://twitter.com/jessecalvin6" target="blank"><img src="https://img.shields.io/twitter/follow/jessecalvin6?logo=twitter&style=for-the-badge" alt="jessecalvin6" /></a> </p>
